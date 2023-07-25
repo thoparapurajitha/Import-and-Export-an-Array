@@ -203,3 +203,9 @@ git push -u origin main
 git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
 git branch -M main
 git push -u origin main
+git init
+git remote add origin "https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git"
+git add -A
+git commit -m "Import and Export a Boolean"
+git branch -M main
+git push -u origin main
