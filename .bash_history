@@ -232,3 +232,9 @@ git add -A
 git commit -m "Import and Export a Function with Parameter"
 git branch -M main
 git push -u origin main
+git init 
+git remote add origin "git@github.com:thoparapurajitha/Import-and-Export-Multiple-Values.git"
+git add -A
+git commit -m "Import and Export Multiple Values"
+git branch -M main
+git push -u origin main
