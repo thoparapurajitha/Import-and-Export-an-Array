@@ -215,3 +215,20 @@ git add -A
 git commit -m "Import and Export a Function"
 git branch -M main
 git push -u origin main
+echo "# Import-and-Export-Multiple-Values" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:thoparapurajitha/Import-and-Export-Multiple-Values.git
+git push -u origin main
+git init
+git remote add origin git@github.com:thoparapurajitha/Import-and-Export-Multiple-Values.git"
+ls
+.exit
+git init
+git remote add origin "https://github.com/thoparapurajitha/Import-and-Export-a-Function-with-Parameter.git"
+git add -A
+git commit -m "Import and Export a Function with Parameter"
+git branch -M main
+git push -u origin main
