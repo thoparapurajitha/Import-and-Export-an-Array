@@ -256,3 +256,9 @@ git add -A
 git commit -m "Import and Export a String"
 git branch -M main
 git push -u origin main
+git init
+git remote add origin "https://github.com/thoparapurajitha/Get-Date-After-x-Days.git"
+git add -A
+git commit -m "Get Date After x Days"
+git branch -M main
+git push -u origin main
