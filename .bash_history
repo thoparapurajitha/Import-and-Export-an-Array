@@ -119,3 +119,87 @@ git commit -m "Import and Export a Function
 "
 git branch -M main
 git push -u origin main
+echo "# Import-and-Export-an-Array" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-an-Array.git
+git push -u origin main
+git config --global user.email "rajithathoparapu55@gmail.com"
+git config --global user.name "thoparapurajitha"
+git init
+git remote add origin "https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git"
+git add -A
+git commit -m "Import and Export a Boolean"
+git branch -M main
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-an-Array" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-an-Array.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+echo "# Import-and-Export-a-Boolean" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git push -u origin main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git branch -M main
+git push -u origin main
+root@0c2492247cc4:~# git branch -M main
+root@0c2492247cc4:~# git push -u origin main
+Username for 'https://github.com': thoparapurajitha
+Password for 'https://thoparapurajitha@github.com': 
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/thoparapurajitha/Import-and-Export-a-Boolean.git
+git branch -M main
+git push -u origin main
