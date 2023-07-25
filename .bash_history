@@ -244,3 +244,9 @@ git add -A
 git commit -m "Import and Export a Number"
 git branch -M main
 git push -u origin main
+git init
+git remote add origin "https://github.com/thoparapurajitha/Import-and-Export-an-Object.git"
+git add -A
+git commit -m "Import and Export an Object"
+git branch -M main
+git push -u origin main
