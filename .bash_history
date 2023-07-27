@@ -280,3 +280,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/thoparapurajitha/First-Names-of-the-People.git
 git push -u origin main
+git config --global user.email "rajithathoparapu55@gmail.com"
+git config --global user.name "thoparapurajitha"
+git init
+git remote add origin "https://github.com/thoparapurajitha/First-Names-of-the-People.git"
+git add -A
+git commit -m "First Names of the People"
+git branch -M main
+git push -u origin main
