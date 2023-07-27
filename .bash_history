@@ -262,3 +262,21 @@ git add -A
 git commit -m "Get Date After x Days"
 git branch -M main
 git push -u origin main
+git remote add origin https://github.com/thoparapurajitha/Greeting-Message.git
+git branch -M main
+git push -u origin main
+git init
+git remote add origin "https://github.com/thoparapurajitha/First-Names-of-the-People.git"
+git add -A
+git commit -m "First Names of the People"
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+echo "# First-Names-of-the-People" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thoparapurajitha/First-Names-of-the-People.git
+git push -u origin main
