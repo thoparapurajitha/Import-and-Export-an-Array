@@ -288,3 +288,12 @@ git add -A
 git commit -m "First Names of the People"
 git branch -M main
 git push -u origin main
+git init
+git remote add origin "https://github.com/thoparapurajitha/Cricket-Team.git"
+git add -A
+git commit -m "Cricket Team"
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/thoparapurajitha/Cricket-Team.git
+git branch -M main
+git push -u origin main
